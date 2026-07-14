@@ -78,13 +78,7 @@ I'm passionate about building modern, responsive web applications and powerful C
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=islam3kb&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
