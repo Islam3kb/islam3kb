@@ -66,15 +66,7 @@ I'm passionate about building modern, responsive web applications and powerful C
 - Responsive Design
 - API Integration
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=islam3kb&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam3kb&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
